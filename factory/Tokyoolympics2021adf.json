@@ -1,0 +1,9 @@
+{
+	"name": "Tokyoolympics2021adf",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a6a87f0-e6c5-4b58-89b9-7eb0e3f7f6c1",
+		"tenantId": "b79a453d-3bef-44cc-8269-52813b572437"
+	}
+}
